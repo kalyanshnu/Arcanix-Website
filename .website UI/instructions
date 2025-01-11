@@ -1,1 +1,66 @@
+Link: https://www.figma.com/design/peSoeaNbMckAqrFIoBssGJ/Website-Tech-fest?node-id=40-2&m=dev
 
+Step 1: Define the Layout Structure
+Header Section:
+
+Add a navigation bar with menu items like About Us, Events, Sponsors, Contact Us.
+Include the logo on the left side.
+Hero Section:
+
+Place a large globe logo in the center.
+Design the particle-splitting animation to draw attention (use Figma plugins like ProtoPie or After Effects for prototype animation).
+Content Sections:
+
+About Us: Highlight the purpose and goals of the tech fest.
+Events: Separate blocks for categories such as Robotics, Cultural Events, etc.
+Sponsors: List the sponsors with their logos and descriptions.
+Location and Contact: Map widget, college address, and contact details.
+Footer:
+
+Include quick links like View Brochure, ASTU, and Dhemaji Engineering College Website.
+Social media icons and copyright details.
+Step 2: Create the Design in Figma
+Open a New Figma File:
+
+Set the canvas size to match your website's target screen resolution (e.g., 1440px width).
+Design the Globe Logo Section:
+
+Import or design a globe logo.
+Use the Figma prototyping tool or external tools to simulate particles splitting and moving outward.
+Add Header and Navigation:
+
+Use rectangles for menu items and align them with a grid.
+Insert your logo on the top-left corner.
+Hero Section:
+
+Place the globe in the center.
+Add text overlays, such as “Get Ready for the First-Ever Tech Event of Dhemaji Engineering College.”
+About Us Section:
+
+Use grids for text alignment.
+Add an image or illustration to complement the content.
+Event Categories Section:
+
+Create cards for each event (Robotics, Cultural Events, etc.).
+Use icons or related images for better visualization.
+Sponsors Section:
+
+Design a grid layout to display logos of sponsors.
+Include descriptive text under each sponsor.
+Footer:
+
+Create a row for quick links and contact details.
+Add buttons for external links.
+Step 3: Add Animations and Interactions
+Use Prototyping Mode in Figma for interactions like:
+Hover effects on menu items.
+Smooth scrolling between sections.
+Particle movement for the globe logo (additional tool required for advanced animation).
+Step 4: Preview and Export
+Prototype:
+
+Test the design for usability.
+Check the flow between sections.
+Export Assets:
+
+Export images, icons, and other visuals for development.
